@@ -26,7 +26,7 @@ git clone https://github.com/raihanameen/universal-wordpress.git
 cd universal-wordpress
 docker-compose up -d
 ```
-🎉 Done! Access your https://localhost/8080 to access the wordpress panel and get started with your projects.
+🎉 That's It! Now go to https://localhost/8080 to access the WordPress panel and get started with your projects.
 
 
 ---

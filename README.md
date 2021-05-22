@@ -1,6 +1,6 @@
 # Universal Wordpress
 
-## These are some reasons why use this Docker Compose in your production environment.
+## These are some reasons why you should use this Docker Compose in your production environment.
 
 ☝️ 1 command to install
 

@@ -1,6 +1,6 @@
 # Universal WordPress
 
-## These are some reasons why you should use this Docker Compose in your production environment.
+## These are some reasons why you should use this WordPress Docker Compose for your development environment.
 
 ☝️ 1 command to start
 

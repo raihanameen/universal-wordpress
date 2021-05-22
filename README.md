@@ -1,4 +1,4 @@
-# Universal Wordpress
+# Universal WordPress
 
 ## These are some reasons why you should use this Docker Compose in your production environment.
 

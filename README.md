@@ -2,13 +2,15 @@
 
 ## These are some reasons why you should use this Docker Compose in your production environment.
 
-☝️ 1 command to install
+☝️ 1 command to start
 
-👨‍💻 Ready to production and local development
+👨‍💻 Ready for production and local development
 
 ⚡ Performance Optimized
 
-🍎 Works anywhere (including apple silicon macs)
+🍎 Works anywhere (Includes support for Apple Silicon Macs)
+
+📚 Ease of development and managing different versions
 
 ## Stack
 * Wordpress (Last version)
